@@ -1,0 +1,2 @@
+# sharedWalletSample
+Simple ether wallet
